@@ -1,44 +1,24 @@
-document.addEventListener('DOMContentLoaded', function () {
-  const toggleMenu = document.querySelector('.menu');
-  const menu = document.querySelector('.navigation');
+document.addEventListener("DOMContentLoaded", function() {
+  // Get references to the button and navigation menu
+  var menuButton = document.querySelector(".menu");
+  var navigationMenu = document.querySelector(".navigation");
 
-  if (toggleMenu && menu) {
-    // Fonction pour fermer le menu
-    function closeMenu() {
-      toggleMenu.setAttribute('aria-expanded', 'false');
-      menu.hidden = true;
-    }
+  // Function to toggle the navigation menu
+  function toggleMenu() {
+    // Toggle the "hidden" attribute on the navigation menu
+    navigationMenu.hidden = !navigationMenu.hidden;
 
-    // Fonction pour ajouter la classe 'active' à l'élément sélectionné
-    function setActiveMenuItem(clickedItem) {
-      const menuItems = menu.querySelectorAll('a');
-      menuItems.forEach(item => item.classList.remove('active'));
-      clickedItem.classList.add('active');
-    }
-
-    // Ajoute un gestionnaire d'événements pour le bouton de menu
-    toggleMenu.addEventListener('click', function () {
-      const isOpen = JSON.parse(toggleMenu.getAttribute('aria-expanded'));
-      toggleMenu.setAttribute('aria-expanded', !isOpen);
-      menu.hidden = !menu.hidden;
-      if (!menu.hidden) {
-        menu.querySelector('a').focus();
-      }
-    });
-
-    // Ajoute un gestionnaire d'événements pour les liens internes du menu
-    menu.addEventListener('click', function (event) {
-      if (event.target.tagName === 'A') {
-        setActiveMenuItem(event.target); // Ajoute la classe 'active' à l'élément sélectionné
-        closeMenu(); // Ferme le menu
-      }
-    });
-
-    // Ajoute un gestionnaire d'événements au document pour fermer le menu en dehors du menu
-    document.addEventListener('click', function (event) {
-      if (!menu.contains(event.target) && !toggleMenu.contains(event.target)) {
-        closeMenu();
-      }
-    });
+    // Toggle the "aria-expanded" attribute on the button for accessibility
+    var isMenuHidden = navigationMenu.hidden;
+    menuButton.setAttribute("aria-expanded", isMenuHidden ? "false" : "true");
   }
+
+  // Toggle the navigation menu when the button is clicked
+  menuButton.addEventListener("click", toggleMenu);
+
+  // Add event listener to close the menu when a link is clicked
+  var navLinks = document.querySelectorAll(".nav-item a");
+  navLinks.forEach(function(link) {
+    link.addEventListener("click", toggleMenu);
+  });
 });

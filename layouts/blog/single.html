@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+    <article class="article">
+        <header class="article-header">
+            <h1>{{ .Title }}</h1>
+            <time>{{ .Date | time.Format ":date_long" }}</time>
+            <p class="article-description">{{ .Description }}</p>
+        </header>
+
+        {{ .Content }}
+
+        <footer>
+            <hr>
+            <div class="more">
+                <h2>Derniers articles</h2>
+                <!-- Liste les 3 derniers articles sauf celui consulté -->
+                {{ range first 3 (where (where .Site.RegularPages "Section" "blog") "Title" "!=" .Title ) }}
+
+                <a href="{{ .Permalink }}" class="more-thumbnail-link">
+                    <div class="more-thumbnail">
+                        {{ $image := (.Resources.ByType "image").GetMatch "*cover*" }}
+                        <img src="{{ ( $image.Fill "736x414 webp" ).RelPermalink }}" loading="lazy" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="Illustration de l'article" class="thumbnail-cover">
+                        <h3>{{ .Title }}</h3>
+                    </div>
+                </a>
+                <hr>
+                {{ end }}
+            </div>
+
+        </footer>
+    </article>
+
+{{ end }}

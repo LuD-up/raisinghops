@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="list">
+    <header class="list-header">
+        <h1>{{.Title}}</h1>
+        <p>{{.Description}}</p>
+    </header>
+
+    <ul class="posts-list">
+        {{ range (.Paginator).Pages.ByPublishDate.Reverse }}
+        <li class="post-thumbnail-item">
+            <a href="{{ .Permalink }}" class="post-thumbnail-link">
+                <div class="post-thumbnail">
+                    <img src="{{ .Permalink }}cover.webp" width="1200px" height="800px" alt="Illustration de l'article" class="thumbnail-cover">
+                    <div class="post-thumbnail-content">
+                        <h2>{{ .Title }}</h2>
+                        <time>{{ .Date | time.Format ":date_long" }}</time>
+                    </div>
+                </div>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+</section>
+{{ end }}

@@ -1,0 +1,19 @@
+<header class="main-header">
+	<div class="wrapper">
+		<a href="{{ .Site.BaseURL }}" class="logo-link">
+			<img src="/favicon.svg" alt="Logo" class="logo-img" width="40px" height="40px">
+		</a>
+		<nav class="navigation" hidden>
+			<div class="nav-item"><a href="{{ .Site.BaseURL }}">Accueil</a></div>
+			<div class="nav-item"><a href="/carte">La carte</a></div>
+			<div class="nav-item"><a href="{{ .Site.BaseURL }}#horaires">Horaires</a></div>
+			<div class="nav-item"><a href="/blog">Blog</a></div>
+			<div class="nav-item"><a href="{{ .Site.BaseURL }}#contact">Contact</a></div>
+		</nav>
+		<button aria-expanded="false" aria-controls="menu" class="menu">
+			<svg aria-label="Menu" viewBox="0 0 32 32" fill="currentcolor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5px">
+				<path d="M4 8 L28 8 M4 16 L28 16 M4 24 L28 24"></path>
+			</svg>
+		</button>
+	</div>
+</header>

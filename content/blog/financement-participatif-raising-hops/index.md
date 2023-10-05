@@ -3,7 +3,6 @@ title: Lancement du financement participatif du Raising Hops
 description: "Lancement de la campagne de financement participatif du Raising Hops. Retrouvez toutes les informations et comment y participer."
 date: 2023-08-28T10:00:00Z
 draft: false
-categories: "Actualité"
 ---
 
 {{< figure src="cover.webp" alt="une plante qui pousse dans un verre contenant des pièces de monnaie" caption="Participez à la création du Raising Hops et obtenez des contreparties pour chaque don !" class="full-bleed" >}}

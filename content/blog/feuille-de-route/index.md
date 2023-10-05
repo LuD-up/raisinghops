@@ -3,7 +3,6 @@ title: "Feuille de route : le bilan des 3 premiers mois"
 description: "La feuille de route du Raising Hops pour mieux situer l'avancée du projet et connaitre les prochaines étapes de celui-ci."
 date: 2023-02-02T17:00:00Z
 draft: false
-categories: "Création d'un bar"
 ---
 
 Cela fait maintenant trois mois que je travaille quotidiennement au développement de mon projet en parallèle de mon CDI à L’abbaye.

@@ -3,7 +3,6 @@ title: "Analyse du marché de la bière en France et ses chiffres clés"
 description: "Analyse du marché de la bière et des bars à bière en France pour mieux se positionner et compléter son business plan avec des chiffres clés."
 date: 2023-01-15T10:00:00Z
 draft: false
-categories: "Création d'un bar"
 ---
 
 {{< figure src="cover.webp" alt="une feuille de papier avec des marqueurs et des stylos" class="full-bleed" >}}

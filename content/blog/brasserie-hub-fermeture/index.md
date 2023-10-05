@@ -3,7 +3,6 @@ title: "La brasserie HUB de Roubaix ferme définitivement ses portes"
 description: "La brasserie HUB ferme ses portes définitivement le 13 juillet prochain, 5 ans après son ouverture à Roubaix."
 date: 2023-06-20T10:00:00Z
 draft: false
-categories: "Actualité"
 ---
 
 {{< figure src="cover.webp" alt="Façade de la brasserie HUB de Roubaix" class="full-bleed" >}}

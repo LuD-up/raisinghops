@@ -3,7 +3,6 @@ title: "Le Raising Hops : Mon projet de création d'un bar à bières"
 description: "Suivez-moi dans la création d'un bar à bières artisanale appelé le Raising Hops, situé au coeur de Lille pour faire découvrir la bière locale."
 date: 2022-11-01T17:00:00Z
 draft: false
-categories: "Création d'un bar"
 ---
 
 Qui n’a jamais eu l’idée de lancer son propre bar ? C’est ce qui m’est arrivé il y a déjà 10 ans, une idée qui semblait irréalisable et qui avait disparue de mon esprit jusqu’à peu.

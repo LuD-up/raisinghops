@@ -3,7 +3,6 @@ title: "Les 3 formations obligatoires pour créer un bar en France"
 description: "Voici la liste des différentes formations obligatoires pour créer et exploiter un bar en France en 2023 en toute légalité."
 date: 2023-01-02T17:00:00Z
 draft: false
-categories: "Création d'un bar"
 ---
 
 Pour lancer un bar en France, il existe plusieurs formations obligatoires à effectuer.

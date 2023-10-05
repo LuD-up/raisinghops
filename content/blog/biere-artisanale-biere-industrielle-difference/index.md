@@ -3,7 +3,6 @@ title: "Bière artisanale ou bière industrielle, quelle différence ?"
 description: "Explication de ce qu'est une bière artisanale, ses origines, son histoire, ses qualités et ses différences comparé aux bières industrielles."
 date: 2023-03-15T17:00:00Z
 draft: false
-categories: "La bière artisanale"
 ---
 
 {{< figure src="cover.webp" alt="Des bouteilles de bières artisanales disposées sur une étagère" class="full-bleed" >}}
@@ -31,7 +30,7 @@ La recette traditionnelle d’une bière artisanale est très simple :
 - Des levures, ajoutées dans le moût, elles transforment les matières en alcool et en gaz carbonique.
 - Aucune filtration ou pasteurisation qui dénature la bière.
 
-En résumé, **un produit naturel sans conservateur ni produit chimique, des matières premières nobles et de qualité.**
+En résumé, un produit **naturel sans conservateur ni produit chimique**, des **matières premières nobles et de qualité.**
 
 Autre information qui a son importance : une bière artisanale est une bière produite dans une brasserie artisanale, et pas juste une étiquette de bière artisanale – faite grâce à une recette dite « traditionnelle » – posée sur une bouteille de bière qui en réalité a été brassée ailleurs, on ne sait pas forcément. Attention à bien lire les étiquettes des bières que vous achetez !
 

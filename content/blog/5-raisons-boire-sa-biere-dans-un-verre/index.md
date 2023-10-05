@@ -1,7 +1,6 @@
 ---
 title: "5 raisons de boire sa bière craft dans un verre"
 description: "5 bonnes raisons de déguster sa bière dans un verre plutôt que directement à la canette ou au goulot, pour ne pas gâcher les arômes avoir une belle mousse !"
-categories: "La bière artisanale"
 date: 2023-05-29T11:00:00Z
 draft: false
 ---
@@ -37,13 +36,13 @@ Pour résumer, on va diviser les nombreux styles de verres à bières en deux ca
 
 - Les verres qui **se resserrent** vers le haut et qui **concentrent les arômes** à l'intérieur
 
-  **Exemple :** ballon, snifter, teku...
+  Exemple : ballon, snifter, teku...
 
   Il ne faut donc pas remplir ce type de verre à ras-bord pour laisser de l'espace aux arômes. Ce type de verres est idéal pour les IPA et les NEIPA par exemple.
 
 - Un verre **évasé** va laisser **les arômes se disperser**
 
-  **Exemple :** calice, chope...
+  Exemple : calice, chope...
 
   Il vaut donc mieux, à l'inverse, remplir son verre à ras du bord avec une belle mousse protectrice. Ce type de verre est plus adapté aux bières de style belge, généralement plus fortes en alcool comme les trappistes.  
   Et ne vous inquiétez pas pour la mousse, les trappistes comme l'Orval sont naturellement très pétillantes !
@@ -73,4 +72,4 @@ Ayant travaillé dans une brasserie, je peux vous confirmer que les souris s'inf
 
 ## Conclusion
 
-Voilà, vous avez donc **5 bonnes raisons** de boire votre bière **dans un verre** adapté ! Et si vous n'avez pas de verre à bière chez vous, un verre à vin fera parfaitement l'affaire.
+Voilà, vous avez donc 5 bonnes raisons de boire votre bière dans un verre adapté ! Et si vous n'avez pas de verre à bière chez vous, un verre à vin fera parfaitement l'affaire.

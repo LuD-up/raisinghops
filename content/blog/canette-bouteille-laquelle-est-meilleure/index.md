@@ -1,7 +1,6 @@
 ---
 title: "Canette ou bouteille de bière : laquelle est la meilleure ?"
 description: "Quelles sont les différences entre une bière en canette et une bière en bouteille ? L'écologique, la conservation, le design... On fait le point."
-categories: "La bière artisanale"
 date: 2023-05-01T11:00:00Z
 draft: false
 ---

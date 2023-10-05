@@ -1,6 +1,6 @@
 ---
 title: "La carte du Raising Hops"
-description: ""
+description: "La carte du Raising Hops. Des bières pression ou canette, des cocktails, des softs et des encas."
 layout: page
 ---
 

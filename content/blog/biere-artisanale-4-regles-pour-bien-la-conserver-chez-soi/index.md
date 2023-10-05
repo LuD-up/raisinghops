@@ -3,7 +3,6 @@ title: "Bière artisanale : 4 règles pour bien la conserver chez soi"
 description: "Bière artisanale : les 4 règles à mettre en place pour garantir sa conservation de leur dans votre maison pour conserver leur arôme et leur goût, chez vous."
 date: 2023-04-05T17:00:00Z
 draft: false
-categories: "La bière artisanale"
 ---
 
 {{< figure src="cover.webp" alt="Des bouteilles de bières artisanales alignées dans un frigo" class="full-bleed" >}}

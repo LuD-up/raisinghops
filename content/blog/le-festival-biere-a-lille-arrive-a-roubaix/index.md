@@ -1,7 +1,6 @@
 ---
 title: "Le festival Bière à Lille s'expatrie à Roubaix"
 description: "Le festival Bière à Lille fait un tour à la condition publique de Roubaix, l’occasion de découvrir 5 brasseries roubaisiennes et 5 brasseries régionales."
-categories: "Évènement"
 date: 2023-05-16T11:00:00Z
 draft: false
 ---

@@ -3,7 +3,6 @@ title: La bière trappiste, un trésor brassicole monastique
 description: "La bière trappiste occupe une place d'honneur dans l'histoire de la bière. Frabriquée par les moines trappistes, elle un véritable trésor brassicole."
 date: 2023-07-11T10:00:00Z
 draft: false
-categories: "La bière artisanale"
 ---
 
 {{< figure src="cover.webp" alt="une personne qui verse une bière pression dans un verre" caption="La bière trappiste est considérée comme l'une des meilleures au monde en raison de son goût unique, de sa méthode de brassage traditionnelle et de son histoire fascinante." class="full-bleed" >}}
@@ -37,7 +36,7 @@ La bière trappiste est soumise à des règles strictes pour mériter cette appe
 
 1. La bière doit être brassée **au sein de l'enceinte d'une abbaye trappiste**, sous la surveillance et la responsabilité des moines. Cela signifie que chaque étape du processus brassicole est réalisée par les moines eux-mêmes, avec leur expertise et leur dévouement.
 2. La production de bière doit être **un moyen de subsistance** pour le monastère et contribuer à son entretien, ainsi qu'à **des œuvres de charité**. Les moines trappistes considèrent la production de bière comme un travail sacré, une façon de soutenir leur mode de vie monastique et de subvenir aux besoins de la communauté.
-3. Les bénéfices générés par la vente de la bière doivent être utilisés pour des **activités caritatives ou pour soutenir la communauté monastique et ses œuvres sociales**. Les moines trappistes sont engagés dans des actions de bienfaisance, et la vente de leurs bières contribue directement à ces initiatives, ce qui confère une dimension éthique à chaque bouteille de bière trappiste.
+3. Les bénéfices générés par la vente de la bière doivent être utilisés pour des **activités caritatives** ou pour **soutenir la communauté monastique et ses œuvres sociales**. Les moines trappistes sont engagés dans des actions de bienfaisance, et la vente de leurs bières contribue directement à ces initiatives, ce qui confère une dimension éthique à chaque bouteille de bière trappiste.
 
 L'AIT précise également que *« les brasseries trappistes respectent strictement toutes les normes en matière de sécurité, de santé et d’information du consommateur. De même, le style de la communication et la publicité se caractérisent par la probité, la sobriété et la réserve qui siéent à l’environnement religieux dans lequel les bières sont fabriquées. »*. 
 
@@ -49,7 +48,7 @@ Les moines trappistes ont perfectionné leur technique de brassage au fil des si
 
 La bière trappiste est brassée avec des ingrédients simples tels que le malt d'orge, le houblon, la levure et l'eau, mais la qualité de ces ingrédients est essentielle pour obtenir une bière de haute qualité.
 
-{{< figure src="Trappist_Beer_2015-08-15.webp" title="Neuf des bières trappistes labellisées « Authentic Trappist Product », plus la Achel et la Spencer destituées.">}}
+{{< figure src="Trappist_Beer_2015-08-15.webp" alt="11 bouteilles de bières trappistes alignées" title="Neuf des bières trappistes labellisées « Authentic Trappist Product », plus la Achel et la Spencer destituées.">}}
 
 La bière trappiste se décline en différentes variétés, chacune ayant ses propres caractéristiques distinctives. On trouve notamment des bières blondes, brunes, ambrées, et même des bières vieillies en fûts de chêne. Chaque monastère a ses recettes secrètes et utilise des ingrédients spécifiques.
 

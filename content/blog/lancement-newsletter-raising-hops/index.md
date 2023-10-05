@@ -3,7 +3,6 @@ title: Lancement de la Newsletter du Raising Hops !
 description: "Lancement de la newsletter du Raising Hops. Retrouvez toute l’actualité du bar une fois par mois dans votre boite mail."
 date: 2023-07-30T10:00:00Z
 draft: false
-categories: "Actualité"
 ---
 
 {{< figure src="cover.webp" alt="une rangée de boîtes aux lettres sur un poteau en bois" caption="N'oubliez pas de vous inscrire à notre newsletter pour recevoir toutes les informations du bar, une fois par mois !" class="full-bleed" >}}

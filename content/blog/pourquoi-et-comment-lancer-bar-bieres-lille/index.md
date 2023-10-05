@@ -3,7 +3,6 @@ title: "Pourquoi et comment lancer mon projet de bar à bières sur Lille"
 description: "Pourquoi décider de créer son propre bar à bières en plein coeur de Lille et comment réussir son lancement grâce à un business plan solide."
 date: 2022-11-15T17:00:00Z
 draft: false
-categories: "Création d'un bar"
 ---
 
 ## Un bar, oui, mais quel bar ?
@@ -26,7 +25,7 @@ Dans ces cas là ? Trop de choix tue le choix, on se rabat sur ce qu’on connai
 
 J’ai donc volontairement imaginé un bar à bières avec une sélection restreinte afin de laisser à chaque bière une place de choix aux yeux et aux papilles des gens. 
 
-**Chaque bière est unique, est bien souvent sa couleur ne définie pas son goût.**
+> "Chaque bière est unique, est bien souvent sa couleur ne définie pas son goût."
 
 Souvent, on pense ne pas aimer les “brunes” ou n’aimer que les “IPA”. Afin de casser ces aprioris, chaque bière aura une description, son style et sa couleur affichée. Car oui, une bière de blé à 5° peut être aussi savoureuse qu’une bière belge à 9°.
 

@@ -3,7 +3,6 @@ title: "8 défauts et faux-goûts les plus fréquents dans une bière"
 description: "Comment reconnaitre et comprendre les 8 défauts et faux-goûts les plus fréquents pouvant être présents dans une bière artisanale."
 date: 2023-04-17T17:00:00Z
 draft: false
-categories: "La bière artisanale"
 ---
 
 {{< figure src="cover.webp" alt="Une canette de bière écrasée au sol" class="full-bleed" >}}

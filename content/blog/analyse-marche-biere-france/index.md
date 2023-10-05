@@ -6,6 +6,8 @@ draft: false
 categories: "Création d'un bar"
 ---
 
+{{< figure src="cover.webp" alt="une feuille de papier avec des marqueurs et des stylos" class="full-bleed" >}}
+
 ## L’analyse du marché de la bière en France
 
 Pour convaincre, il faut un bon business plan. Pour faire un bon business plan, il faut une analyse de marché. Pour faire une bonne analyse, il faut des chiffres ! Après avoir parcouru de nombreux sites spécialisés, voici ceux que j'ai retenu.

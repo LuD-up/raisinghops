@@ -6,7 +6,7 @@ draft: false
 categories: "La bière artisanale"
 ---
 
-![Des bouteilles de bières artisanales disposées sur une étagère](cover.webp)
+{{< figure src="cover.webp" alt="Des bouteilles de bières artisanales disposées sur une étagère" class="full-bleed" >}}
 
 La bière artisanale (ou _Craft beer_ en anglais) désigne les bières fabriquées par des artisans dans une brasserie ou micro-brasserie indépendante.
 

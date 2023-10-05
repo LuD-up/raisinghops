@@ -6,7 +6,7 @@ date: 2023-05-01T11:00:00Z
 draft: false
 ---
 
-![Plusieurs canettes de bières disposées](cover.webp)
+{{< figure src="cover.webp" alt="plusieurs canettes de bière au design différent" class="full-bleed" >}}
 
 La bière en canette a longtemps été décriée. La fameuse “8.6” n’a surement pas aidé. Aujourd’hui cependant, les brasseries sont de plus en plus nombreuses à conditionner leur bière en canettes. Procédons étape par étape pour comprendre pourquoi.
 

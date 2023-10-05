@@ -6,9 +6,9 @@ draft: false
 categories: "Actualité"
 ---
 
-Nous sommes ravis d'annoncer le lancement de notre campagne de financement participatif pour aider au lancement du Raising Hops.
+{{< figure src="cover.webp" alt="une plante qui pousse dans un verre contenant des pièces de monnaie" caption="Participez à la création du Raising Hops et obtenez des contreparties pour chaque don !" class="full-bleed" >}}
 
-{{< figure src="cover.webp">}}
+Nous sommes ravis d'annoncer le lancement de notre campagne de financement participatif pour aider au lancement du Raising Hops.
 
 ## Notre campagne de financement participatif
 

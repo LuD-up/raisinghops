@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Silk Serif Bold';
+    src: url(/Silk-Serif-Bold.woff2) format('woff2');
+    font-display: swap;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;

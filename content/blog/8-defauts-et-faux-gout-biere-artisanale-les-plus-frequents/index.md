@@ -6,7 +6,7 @@ draft: false
 categories: "La bière artisanale"
 ---
 
-![Une canette de bière écrasée au sol](cover.webp)
+{{< figure src="cover.webp" alt="Une canette de bière écrasée au sol" class="full-bleed" >}}
 
 Les goûts sont propres à chacun : on peut adorer le goût d’une bière qu’une autre personne déteste et vice-versa.  
 Par exemple, si on fait goûter une IPA très amère à une personne qui n’aime pas l’amertume, elle risque de ne pas aimer la bière et elle pourra même penser que cette bière possède un défaut, alors qu’en réalité son amertume est sa qualité gustative.

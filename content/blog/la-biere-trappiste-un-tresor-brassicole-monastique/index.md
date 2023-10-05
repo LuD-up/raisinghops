@@ -6,11 +6,11 @@ draft: false
 categories: "La bière artisanale"
 ---
 
+{{< figure src="cover.webp" alt="une personne qui verse une bière pression dans un verre" caption="La bière trappiste est considérée comme l'une des meilleures au monde en raison de son goût unique, de sa méthode de brassage traditionnelle et de son histoire fascinante." class="full-bleed" >}}
+
 La bière est une boisson millénaire appréciée à travers le monde, mais certaines bières se distinguent par leur qualité et leur histoire particulière. 
 
 Parmi elles, la bière trappiste occupe une place d'honneur. Fabriquée par les moines trappistes au sein de leurs monastères, la bière trappiste est un véritable trésor brassicole.
-
-{{< figure src="cover.webp" title="La bière trappiste est considérée comme l'une des meilleures au monde en raison de son goût unique, de sa méthode de brassage traditionnelle et de son histoire fascinante.">}}
 
 ## Origines et traditions
 

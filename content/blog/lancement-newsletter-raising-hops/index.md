@@ -6,11 +6,11 @@ draft: false
 categories: "Actualité"
 ---
 
+{{< figure src="cover.webp" alt="une rangée de boîtes aux lettres sur un poteau en bois" caption="N'oubliez pas de vous inscrire à notre newsletter pour recevoir toutes les informations du bar, une fois par mois !" class="full-bleed" >}}
+
 Le projet avance et à cette occasion nous lançons donc la newsletter du Raising Hops ! Vous n'êtes pas encore abonné(e) ? 
 
 **Inscrivez-vous** en [cliquant ici](https://mailchi.mp/0eee819b567f/page-dinscription), ou via le formulaire en bas de cet article.
-
-{{< figure src="cover.webp" title="N'oubliez pas de vous inscrire à notre newsletter pour recevoir toutes les informations du bar, une fois par mois !">}}
 
 Cette newsletter est quelque chose de très important pour nous, elle permet de créer une relation supplémentaire avec notre communauté. 
 

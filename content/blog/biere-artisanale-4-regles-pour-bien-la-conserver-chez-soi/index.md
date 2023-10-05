@@ -6,7 +6,7 @@ draft: false
 categories: "La bière artisanale"
 ---
 
-![Des bouteilles de bières artisanales alignées dans un frigo](cover.webp)
+{{< figure src="cover.webp" alt="Des bouteilles de bières artisanales alignées dans un frigo" class="full-bleed" >}}
 
 La bière artisanale est devenue très populaire ces dernières années, en grande partie en raison de la qualité supérieure de ses ingrédients et de son processus de production. Les brasseurs artisanaux mettent l'accent sur la fabrication de bières uniques, riches en saveurs et en arômes, ce qui attire les amateurs de bière du monde entier. Cependant, la bière artisanale est également plus délicate et nécessite une attention particulière lors de sa conservation.
 

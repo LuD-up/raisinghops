@@ -147,7 +147,7 @@ hr {
 }
 
 .nav-item a:hover, .nav-item a:focus {
-	color: hsl(38, 98%, 58%);
+	color: var(--content-orange);
 }
 
 .menu {

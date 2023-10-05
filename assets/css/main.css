@@ -146,7 +146,7 @@ hr {
 	padding: 1.2rem 1.6rem;
 }
 
-.nav-item a:hover, .nav-item a:focus, .navigation .active {
+.nav-item a:hover, .nav-item a:focus {
 	color: hsl(38, 98%, 58%);
 }
 

@@ -2,7 +2,7 @@
 title: 'Notre campagne de financement participatif est réussi !'
 description: "Le financement participatif que nous avons lancé un mois plus tôt a réussi. Grâce à vous, nous avons récolté 2705€ sur les 2500€ demandés ! Quelles sont les prochaines étapes ? On vous détaille ça."
 date: 2023-10-05T9:18:55+02:00
-draft: false
+draft: true
 ---
 
 {{< figure src="cover.webp" alt="un tas de pierres formant une pile" caption="Notre financement est un succès ! Encore merci à tous les participants d'avoir contribué d'une manière ou d'une autre !" class="full-bleed" >}}

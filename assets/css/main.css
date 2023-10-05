@@ -93,6 +93,12 @@ hr {
     border: .5px solid rgba(20, 20, 20, 0.10);
 }
 
+blockquote p {
+    font-size: 2rem;
+    font-weight: 700;
+    font-style: italic;
+}
+
 /* Navigation bar */
 
 .main-header {

@@ -22,6 +22,7 @@ p, h1, h2, h3 {
     overflow-wrap: break-word;
 }
 
+/* Colors and Variables */
 :root {
     --bg-primary: #FFFCEF;
     --bg-secondary: #FFF;
@@ -39,8 +40,6 @@ p, h1, h2, h3 {
     --margin-80: calc(80rem / 16);
     --margin-120: calc(120rem / 16);
     --margin-240: calc(240rem / 16);
-
-    --border-radius: 24px;
 }
 
 body {
@@ -62,13 +61,13 @@ h1 {
 }
 
 h2 {
-    font-size: calc(48rem / 16);
+    font-size: 3rem;
     line-height: 1.2;
-    margin: 1.6rem 0;
+    margin: var(--margin-24) 0;
 }
 
 h3, .h3 {
-    font-size: calc(20rem / 16);
+    font-size: 1.25rem;
     font-weight: 700;
 }
 
@@ -94,7 +93,7 @@ hr {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 24px 24px 0;
+	margin: var(--margin-24) var(--margin-24) 0;
 }
 
 .wrapper {
@@ -136,7 +135,7 @@ hr {
 
 .nav-item a {
 	color: hsl(0, 0%, 8%);
-	font-size: 40px;
+	font-size: 2.5rem;
 	font-weight: 600;
 	padding: 1.2rem 1.6rem;
 }
@@ -226,7 +225,7 @@ a {
     background-color: var(--content-primary);
     border-radius: 16px;
     color: var(--content-white);
-    font-size: calc(16rem / 16);
+    font-size: 1rem;
     font-weight: 700;
     text-decoration: none;
 
@@ -342,11 +341,11 @@ a {
 
 .post-thumbnail {
     background-color: var(--bg-secondary);
-    border-radius: 0 0 var(--border-radius) var(--border-radius);
+    border-radius: 0 0 24px 24px;
 }
 
 .post-thumbnail .thumbnail-cover {
-    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    border-radius: 24px 24px 0 0;
     aspect-ratio: 16 / 9;
     object-fit: cover;
 }
@@ -434,7 +433,7 @@ time {
 }
 
 .article figure {
-    border-radius: var(--border-radius);
+    border-radius: 24px;
     margin: var(--margin-40) auto;
 }
 
@@ -449,7 +448,7 @@ figcaption {
 }
 
 .article img {
-    border-radius: var(--border-radius);
+    border-radius: 24px;
 }
 
 .article h2, .page h2 {

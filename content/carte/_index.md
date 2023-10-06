@@ -52,7 +52,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Arrive bientôt|Prix|
 |Arrive bientôt||
 
-|🥃 Spiritueux|    |
+|🥃 Spiritueux|4cl|
 |---|---|
 |Arrive bientôt|Prix|
 |Arrive bientôt||

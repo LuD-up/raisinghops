@@ -1,6 +1,3 @@
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}

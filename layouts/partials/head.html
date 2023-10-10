@@ -8,7 +8,7 @@
   {{- end }}
 {{- end }}
 
-{{- with resources.Get "js/main.js" }}
+{{- with resources.Get "js/main.js" | minify }}
       <script src="{{ .RelPermalink }}"></script>
 {{- end }}
 

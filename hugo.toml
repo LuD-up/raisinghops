@@ -4,6 +4,5 @@ languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 canonifyURLs = true
 enableRobotsTXT = true
-disableHugoGeneratorInject = true
 disablekinds = [ "taxonomy", "term"]
 paginate = 8

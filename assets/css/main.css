@@ -569,3 +569,10 @@ tr:nth-child(2n+1) td {
 
     margin: 15rem 1.5rem 1.5rem;
 }
+
+.social-list {
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    margin-bottom: 1.25rem;
+}

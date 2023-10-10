@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     scrollAnimations.forEach((element) => {
       const elementPosition = element.getBoundingClientRect().top;
       const screenHeight = window.innerHeight;
-      if (elementPosition < screenHeight * 0.85) {
+      if (elementPosition < screenHeight * 0.9) {
         element.style.opacity = "1";
         element.style.transform = "translateY(0)";
       }

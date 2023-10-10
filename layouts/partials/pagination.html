@@ -1,1 +1,43 @@
-{{ template "_internal/pagination.html" . }}
+{{ if gt .Paginator.TotalPages 1 }}
+    <ul class="pagination">
+        {{ with .Paginator.Prev }}
+            <li class="page-item">
+                <a href="{{ .URL }}" class="page-link" aria-label="Précédent">Précédent</a>
+            </li>
+        {{ end }}
+
+        {{ $currentPage := .Paginator.PageNumber }}
+        {{ $totalPages := .Paginator.TotalPages }}
+        {{ $basePath := printf "/blog/page/" }}
+
+        {{ $start := sub $currentPage 2 }}
+        {{ $end := add $currentPage 2 }}
+
+        {{ if lt $start 1 }}
+            {{ $start = 1 }}
+        {{ end }}
+
+        {{ if gt $end $totalPages }}
+            {{ $end = $totalPages }}
+        {{ end }}
+
+        {{ range $i, $n := seq $start $end }}
+            {{ $pageURL := printf "%s%d/" $basePath $n }}
+            {{ if eq $currentPage $n }}
+                <li class="page-item active">
+                    <span class="page-link">{{ $n }}</span>
+                </li>
+            {{ else }}
+                <li class="page-item">
+                    <a href="{{ $pageURL }}" class="page-link">{{ $n }}</a>
+                </li>
+            {{ end }}
+        {{ end }}
+
+        {{ with .Paginator.Next }}
+            <li class="page-item">
+                <a href="{{ .URL }}" class="page-link" aria-label="Suivant">Suivant</a>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}

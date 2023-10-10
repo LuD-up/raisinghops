@@ -59,6 +59,14 @@ body {
     text-rendering: optimizeSpeed;
 }
 
+/* Animations */
+
+.scroll-animation {
+    opacity: 0;
+    transform: translateY(20%);
+    transition: opacity 0.5s ease, transform 0.5s ease-in-out;
+}
+
 /* Typography */
 
 h1 {

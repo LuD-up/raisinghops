@@ -108,7 +108,7 @@ blockquote p {
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 1rem 1.5rem;
+    padding: .5rem 1.5rem;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -180,6 +180,10 @@ blockquote p {
 }
 
 @media screen and (min-width: 850px) {
+    .main-header {
+        padding: 1rem 1.5rem;
+    }
+
 	.navigation {
         background-color: inherit;
         position: relative;

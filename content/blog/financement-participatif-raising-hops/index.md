@@ -23,13 +23,13 @@ Le financement participatif est une approche qui donne à chacun la possibilité
 2. **Partagez notre campagne** : Faites passer le mot à travers vos amis, votre famille et vos réseaux sociaux. Votre voix peut inspirer d'autres à se joindre à notre aventure !
 3. **Nous soutenir avec vos retours** : Un message d’encouragement et nous suivre sur nos réseaux sociaux, pour nous aider à rester motiver !
 
-## **Les contreparties**
+## Les contreparties
 
 Nous avons préparé des contreparties pour remercier nos généreux contributeurs. 
 
 Des stickers, sous-bocks avec le logo du Raising Hops, une invitation à notre soirée d’inauguration, ou encore une soirée dégustation pour découvrir la bière artisanale.
 
-## **Joignez-vous à notre aventure**
+## Joignez-vous à notre aventure
 
 En rejoignant notre campagne de financement participatif, vous faites bien plus que contribuer financièrement. Vous devenez un maillon de la chaîne qui nous aide à réaliser le projet d’une vie. Ensemble, nous pouvons créer un lieu où les histoires se partagent, les amitiés se nouent, et les saveurs se découvrent.
 

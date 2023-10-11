@@ -1,6 +1,6 @@
 ---
 title: "Mentions légales - Raising Hops"
-description: "Mentions légales et conditions d'utilisation du site Raising Hops."
+description: "Mentions légales du Raising Hops : Informations sur le propriétaire, conditions d'utilisation, protection des données, droit d'auteur."
 layout: page
 ---
 

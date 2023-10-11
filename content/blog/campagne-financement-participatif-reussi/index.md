@@ -1,6 +1,6 @@
 ---
-title: 'Notre campagne de financement participatif est réussi !'
-description: "Le financement participatif que nous avons lancé un mois plus tôt a réussi. Grâce à vous, nous avons récolté 2705€ sur les 2500€ demandés ! Quelles sont les prochaines étapes ? On vous détaille ça."
+title: "Notre campagne de financement participatif est réussi !"
+description: "Le financement participatif que nous avons lancé un mois plus tôt a réussi. Grâce à vous, nous avons récolté 2705€ sur les 2500€ demandés !"
 date: 2023-10-05T9:18:55+02:00
 draft: false
 ---

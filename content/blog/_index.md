@@ -1,4 +1,4 @@
 ---
-title: L'actualité du Raising Hops
-description: Retrouvez l’actualité, les événements et annonces des nouvelles bières du Raising Hops.
+title: "L'actualité du Raising Hop : Actualités & événements"
+description: "Le blog du bar dévoile les coulisses, les événements à venir et nos annonces spéciales. Restez au fait des dernières actualités à ne pas manquer."
 ---

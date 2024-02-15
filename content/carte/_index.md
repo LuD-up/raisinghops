@@ -13,7 +13,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Raising Hops X Hop Culture|   |   |
 |Saison Dupont Bio (6,5°)|3,5€|6€|
 |Brasserie Dupont   |   |
-|Session IPA|3,5€|6€|
+|Session IPA (4,2°)|3,5€|6€|
 |Brasserie Tours du Malt   |   |
 |New French IPA (6,5°)|4€|7€|
 |Brasserie Cambier   |   |

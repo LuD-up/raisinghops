@@ -63,12 +63,19 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🧃 Sans alcool|    |
 |---|---|
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-|Arrive bientôt|Prix|
-|Arrive bientôt||
+|Kombucha|5,5€|
+|Original, Jassberry, Citron Menthe & Fire, Hoppy||
+|Lil Cola|4€|
+|||
+|Lil Cola Sans Sucre|4€|
+|||
+|Lilmonade|5€|
+|Ginger Beer, Citra, Coing, Classic||
+|Spunky|4,5€|
+|Framboise & pêche de vigne, Citron vert & Gingembre||
+|Fritz Limonade Citron|4€|
+|||
+
 
 |🥑 Encas|    |
 |---|---|

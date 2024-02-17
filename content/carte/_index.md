@@ -70,7 +70,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Lil Cola Sans Sucre|4€|
 |||
 |Lilmonade|5€|
-|Ginger Beer, Citra, Coing, Classic||
+|Classic, Citra||
+|Limonade Annexe||
+|Coing, Ginger Beer, Myrtille Bio||
 |Spunky|4,5€|
 |Framboise & pêche de vigne, Citron vert & Gingembre||
 |Fritz Limonade Citron|4€|

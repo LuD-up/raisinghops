@@ -25,12 +25,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Météor   |   |
 |Black Marble (5,1°)|3,5€|6€|
 |Brasserie Sullivan's   |   |
-|Mascotte Triple (9°)|4€|7€|
-|Brasserie Picardienne   |   |
-|Accalmie (4,5°)|4,5€|8€|
-|Brasserie Sacrilège   |   |
 |Cuvée des jonquilles (8°)|4€|7€|
 |Brasserie Au Baron   |   |
+|Accalmie (4,5°)|4,5€|8€|
+|Brasserie Sacrilège   |   |
+|Mascotte Triple (9°)|4€|7€|
+|Brasserie Picardennes   |   |
 |Guldenberg (8°)|4€|7€|
 |Brasserie De Ranke   |   |
 

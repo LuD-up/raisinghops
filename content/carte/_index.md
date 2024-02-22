@@ -49,10 +49,17 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍸 Cocktail|    |
 |---|---|
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-|Arrive bientôt|Prix|
-|Arrive bientôt||
+|Moscow Mule|8€|
+|Ginger beer, citron vert, Vodka||
+|London Mule|8€|
+|Ginger beer, citron vert, Gin||
+
+|🍷 Vin||
+|---|---|
+|Côte de Provence|4,5€|
+|||
+|Sauvignon Blanc|5€|
+|||
 
 |🥃 Spiritueux|4cl|
 |---|---|
@@ -81,7 +88,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🥑 Encas|    |
 |---|---|
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-|Arrive bientôt|Prix|
-|Arrive bientôt||
+|Saucisson|6€|
+|Nature, aux herbes, Comté||
+|Tartinables|6€|
+|Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles||

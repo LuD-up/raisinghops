@@ -9,9 +9,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Fob (5°) |3€|5€|
-|Raising Hops X Hop Culture|   |   |
-|Saison Dupont Bio (6,5°)|3,5€|6€|
+|Pils ou face (5°) |3€|5€|
+|Meteor|   |   |
+|Saison Dupont Bio (5,5°)|3,5€|6€|
 |Brasserie Dupont   |   |
 |Session IPA (4,2°)|3,5€|6€|
 |Brasserie Tours du Malt   |   |

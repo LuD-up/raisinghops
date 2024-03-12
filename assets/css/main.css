@@ -30,7 +30,7 @@ p, h1, h2, h3 {
 
 /* Colors and Variables */
 :root {
-    --bg-primary: #FFFCEF;
+    --bg-primary: hsl(50, 100%, 98%);
     --bg-secondary: #FFF;
     --content-primary: #141414;
     --content-secondary: #747479;
@@ -110,7 +110,7 @@ blockquote p {
 /* Navigation bar */
 
 .main-header {
-    background-color: rgba(255,252,239,0.7);
+    background-color: hsla(50, 100%, 98%, 0.7);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     position: fixed;
@@ -231,7 +231,7 @@ blockquote p {
 /* Images */
 
 img {
-    border-radius: 2px;
+    border-radius: 12px;
 }
 
 /* Main */
@@ -277,7 +277,7 @@ a {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 2.5rem;
+    gap: 4rem;
     margin: 0 auto calc(320rem / 16);
 }
 
@@ -312,7 +312,7 @@ a {
 
 .opening-hours .table {
     background-color: #fff;
-    border-radius: 2px;
+    border-radius: 24px;
 
     display: flex;
     flex-direction: column;
@@ -540,6 +540,10 @@ tr:nth-child(even) td {
 
 tr:nth-child(2n+1) td {
     font-weight: 700;
+}
+
+td {
+    min-width: 4rem;
 }
 
 /* More */

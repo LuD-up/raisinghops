@@ -47,13 +47,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Imperial Pastry Gose (33cl)|9€|
 |Brasserie Iron||
 
-|🍸 Cocktail|    |
-|---|---|
-|Moscow Mule|8€|
-|Ginger beer, citron vert, Vodka||
-|London Mule|8€|
-|Ginger beer, citron vert, Gin||
-
 |🍷 Vin||
 |---|---|
 |Côte de Provence|4,5€|
@@ -61,18 +54,11 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Sauvignon Blanc|5€|
 |||
 
-|🥃 Spiritueux|4cl|
-|---|---|
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-|Arrive bientôt|Prix|
-|Arrive bientôt||
-
 |🧃 Sans alcool|    |
 |---|---|
 |Kombucha|5,5€|
-|Original, Jassberry, Citron Menthe & Fire, Hoppy||
-|Lil Cola (avec ou sans sucre)|4€|
+|Original, Jassberry, Hoppy, Citron Menthe & Fire||
+|Maté|5,5€|
 |||
 |Lilmonade|5€|
 |Classic, Citra||
@@ -80,6 +66,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Coing, Ginger Beer, Myrtille Bio||
 |Spunky|4,5€|
 |Framboise & pêche de vigne, Citron vert & Gingembre||
+|Lil Cola (avec ou sans sucre)|4€|
+|||
 
 
 |🥑 Encas|    |

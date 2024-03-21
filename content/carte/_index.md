@@ -36,16 +36,22 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍻 Bières en bouteille|    |
 |---|---|
-|Orval (33cl)|6€|
+|Orval (6,2°)|6€|
 |Brasserie d'Orval||
-|XX Bitter (33cl)|4,5€|
+|XX Bitter (6°)|4,5€|
 |Brasserie De Ranke||
-|Joe NEIPA (33cl)|7€|
+|Joe NEIPA (6°)|7€|
 |Brasserie Iron||
-|Gose Cassis Basilic (33cl)|7€|
+|Gose Cassis Basilic (6°)|7€|
 |Brasserie Iron||
-|Imperial Pastry Gose (33cl)|9€|
+|Imperial Pastry Gose (10°)|9€|
 |Brasserie Iron||
+|Blanche Brunehaut - Sans gluten (5,5°)|5€|
+|Brasserie de Brunehaut||
+|Lil - Sans alcool|5€|
+|Brasserie Gobrecht||
+|Lil Fruits rouges - Sans Alcool|5€|
+|Brasserie Gobrecht||
 
 |🍷 Vin||
 |---|---|
@@ -73,6 +79,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Nature, aux herbes, Comté||
+|Nature, aux herbes, Comté, Beaufort||
 |Tartinables|6€|
 |Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

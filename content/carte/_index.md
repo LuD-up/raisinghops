@@ -27,12 +27,13 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Sullivan's   |   |
 |Cuvée des jonquilles (8°)|4€|7€|
 |Brasserie Au Baron   |   |
-|Accalmie (4,5°)|4,5€|8€|
-|Brasserie Sacrilège   |   |
+|Praise the Sun (5°)|4,5€|8€|
+|Brasserie Chromatique   |   |
 |Mascotte Triple (9°)|4€|7€|
 |Brasserie Picardennes   |   |
 |Guldenberg (8°)|4€|7€|
 |Brasserie De Ranke   |   |
+|Supplément Picon|+1€|+2€|
 
 |🍻 Bières en bouteille|    |
 |---|---|

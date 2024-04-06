@@ -35,8 +35,14 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie De Ranke   |   |
 |Supplément Picon|+1€|+2€|
 
-|🍻 Bières en bouteille|    |
+|🍻 Bières en bouteille||
 |---|---|
+|NEIPA Citra Elixir 6,5° (44cl)|7€|
+|Brasserie Cambier||
+|Double Nectaron 8° (44cl)|7,5€|
+|Brasserie Cambier||
+|Pastry Sour 6,1° (44cl)|8€|
+|Brasserie Cambier||
 |Orval (6,2°)|6€|
 |Brasserie d'Orval||
 |XX Bitter (6°)|4,5€|
@@ -53,6 +59,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Gobrecht||
 |Lil Fruits rouges - Sans Alcool|5€|
 |Brasserie Gobrecht||
+|Cute & Sober - Sans Alcool (33cl)|5€|
+|Brasserie la débauche||
 
 |🍷 Vin||
 |---|---|

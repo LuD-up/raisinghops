@@ -88,6 +88,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Nature, aux herbes, Comté, Beaufort||
+|Fuet catalan, aux herbes, Comté, Beaufort||
 |Tartinables|6€|
 |Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

@@ -19,10 +19,10 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Cambier   |   |
 |Hazy Diamond (5°)|4€|7€|
 |Brasserie la Débauche   |   |
-|Dalva (8,5°)|4,5€|8€|
-|Brasserie Thiriez   |   |
-|Météor Cerise (5,5°)|3,5€|6€|
-|Brasserie Météor   |   |
+|Larsen (9°)|4,5€|8€|
+|Brasserie la Muette|   |
+|Lil Cerise (8°)|4€|7€|
+|Brasserie Gobrecht|   |
 |Black Marble (5,1°)|3,5€|6€|
 |Brasserie Sullivan's   |   |
 |Cuvée des jonquilles (8°)|4€|7€|
@@ -88,6 +88,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, aux herbes, Comté, Beaufort||
+|Fuet catalan, Beaufort||
 |Tartinables|6€|
 |Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

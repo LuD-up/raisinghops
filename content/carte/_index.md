@@ -29,8 +29,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Au Baron   |   |
 |Praise the Sun (5°)|4,5€|8€|
 |Brasserie Chromatique   |   |
-|Mascotte Triple (9°)|4€|7€|
-|Brasserie Picardennes   |   |
+|Freestyle #17 (5°)|3,5€|6€|
+|Brasserie du Pays Flamand|   |
 |Guldenberg (8°)|4€|7€|
 |Brasserie De Ranke   |   |
 |Supplément Picon|+1€|+2€|

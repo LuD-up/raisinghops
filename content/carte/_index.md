@@ -23,7 +23,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7€|
 |Brasserie Gobrecht|   |
-|Black Marble (5,1°)|3,5€|6€|
+|Black Marble (5,1°)|4€|7€|
 |Brasserie Sullivan's   |   |
 |Cuvée des jonquilles (8°)|4€|7€|
 |Brasserie Au Baron   |   |

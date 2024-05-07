@@ -43,6 +43,10 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Cambier||
 |Pastry Sour 6,1° (44cl)|8€|
 |Brasserie Cambier||
+|Peekaboo 5° (33cl)|7,5€|
+|Brasserie Hoppy Road||
+|Mazout 12° (33cl)|7€|
+|Brasserie Hoppy Road||
 |Orval (6,2°)|6€|
 |Brasserie d'Orval||
 |XX Bitter (6°)|4,5€|

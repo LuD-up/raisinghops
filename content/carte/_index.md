@@ -75,7 +75,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Bourgueil|5€|
 |||
 
-|🍹||
+|🍹 Cocktail||
 |---|---|
 |Moscow Mule|8€|
 |Vodka, Ginger Beer, Citron vert||

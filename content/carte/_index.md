@@ -68,10 +68,19 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍷 Vin||
 |---|---|
-|Côte de Provence|4,5€|
+|Rosé de Provence|4,5€|
 |||
 |Sauvignon Blanc|5€|
 |||
+|Bourgueil|5€|
+|||
+
+|🍹||
+|---|---|
+|Moscow Mule|8€|
+|Vodka, Ginger Beer, Citron vert||
+|Gin Tonic|8€|
+|Gin, Tonic, Citron vert||
 
 |🧃 Sans alcool|    |
 |---|---|
@@ -85,13 +94,13 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Coing, Ginger Beer, Myrtille, Framboise||
 |Spunky|4,5€|
 |Framboise & pêche de vigne, Citron vert & Gingembre||
-|Lil Cola (avec ou sans sucre)|4€|
+|Lil Cola (avec ou sans sucre)|4,5€|
 |||
 
 
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, Beaufort||
+|Fuet catalan, Comté||
 |Tartinables|6€|
 |Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

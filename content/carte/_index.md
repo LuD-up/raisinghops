@@ -25,7 +25,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Gobrecht|   |
 |Black Marble (5,1°)|4€|7,5€|
 |Brasserie Sullivan's   |   |
-|Cuvée des jonquilles (8°)|4€|7€|
+|Cuvée des jonquilles (8°)|4€|7,5€|
 |Brasserie Au Baron   |   |
 |Praise the Sun (5°)|4,5€|8€|
 |Brasserie Chromatique   |   |

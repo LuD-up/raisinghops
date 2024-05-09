@@ -15,15 +15,15 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Dupont   |   |
 |Session IPA (4,2°)|3,5€|6€|
 |Brasserie Tours du Malt   |   |
-|New French IPA (6,5°)|4€|7€|
+|New French IPA (6,5°)|4€|7,5€|
 |Brasserie Cambier   |   |
-|Hazy Diamond (5°)|4€|7€|
+|Hazy Diamond (5°)|4€|7,5€|
 |Brasserie la Débauche   |   |
 |Larsen (9°)|4,5€|8€|
 |Brasserie la Muette|   |
-|Lil Cerise (8°)|4€|7€|
+|Lil Cerise (8°)|4€|7,5€|
 |Brasserie Gobrecht|   |
-|Black Marble (5,1°)|4€|7€|
+|Black Marble (5,1°)|4€|7,5€|
 |Brasserie Sullivan's   |   |
 |Cuvée des jonquilles (8°)|4€|7€|
 |Brasserie Au Baron   |   |
@@ -31,7 +31,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Chromatique   |   |
 |Freestyle #17 (5°)|3,5€|6€|
 |Brasserie du Pays Flamand|   |
-|Guldenberg (8°)|4€|7€|
+|Guldenberg (8°)|4€|7,5€|
 |Brasserie De Ranke   |   |
 |Supplément Picon|+1€|+2€|
 

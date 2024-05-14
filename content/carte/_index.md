@@ -75,12 +75,13 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Bourgueil|5€|
 |||
 
-|🍹 Cocktail||
+|🍹 Cocktails||
 |---|---|
 |Moscow Mule|8€|
 |Vodka, Ginger Beer, Citron vert||
 |Gin Tonic|8€|
 |Gin, Tonic, Citron vert||
+
 
 |🧃 Sans alcool|    |
 |---|---|
@@ -92,9 +93,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Classic, Citra||
 |Limonade Annexe|5€|
 |Coing, Ginger Beer, Myrtille, Framboise||
+|Lil Cola (avec ou sans sucre)|5€|
 |Spunky|4,5€|
 |Framboise & pêche de vigne, Citron vert & Gingembre||
-|Lil Cola (avec ou sans sucre)|4,5€|
 |||
 
 

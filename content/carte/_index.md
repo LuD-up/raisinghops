@@ -104,4 +104,4 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Saucisson|6€|
 |Fuet catalan, Comté||
 |Tartinables|6€|
-|Caviars d’aubergine, Thoionades à la provençale, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||
+|Caviars d’aubergine, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

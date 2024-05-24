@@ -99,6 +99,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Framboise & pêche de vigne, Citron vert & Gingembre||
 |Lil Cola (avec ou sans sucre)|4,5€|
 |||
+|Jus de pomme ou pomme/poire|4,5€|
+|||
 
 
 |🥑 Encas|    |

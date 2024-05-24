@@ -37,6 +37,10 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍻 Bières en bouteille||
 |---|---|
+|PVL Printemps 5,5°|7€|
+|Brasserie du Pavé||
+|PVL Sumbawa en Pévèle - 5,5°|7€|
+|Brasserie du Pavé||
 |NEIPA Citra Elixir 6,5° (44cl)|7€|
 |Brasserie Cambier||
 |Double Nectaron 8° (44cl)|7,5€|
@@ -87,8 +91,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|
 |Kombucha|5,5€|
 |Original, Jassberry, Hoppy, Citron Menthe & Fire||
-|Maté|5,5€|
-|||
 |Lilmonade|5€|
 |Classic, Citra||
 |Limonade Annexe|5€|

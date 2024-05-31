@@ -17,7 +17,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Tours du Malt   |   |
 |New French IPA (6,5°)|4€|7,5€|
 |Brasserie Cambier   |   |
-|Hazy Diamond (5°)|4€|7,5€|
+|Scarlet (8°)|4,5€|8€|
 |Brasserie la Débauche   |   |
 |Larsen (9°)|4,5€|8€|
 |Brasserie la Muette|   |
@@ -31,8 +31,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Chromatique   |   |
 |Freestyle #17 (5°)|3,5€|6€|
 |Brasserie du Pays Flamand|   |
-|Guldenberg (8°)|4€|7,5€|
-|Brasserie De Ranke   |   |
+|Horizon (8°)|,5€|8€|
+|Brasserie Chromatique   |   |
 |Supplément Picon|+1€|+2€|
 
 |🍻 Bières en bouteille||

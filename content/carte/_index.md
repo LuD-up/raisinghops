@@ -11,8 +11,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|---|
 |Pils ou face (5°) |3€|5€|
 |Meteor|   |   |
-|Saison Dupont Bio (5,5°)|3,5€|6€|
-|Brasserie Dupont   |   |
+|Thelma (7°)|4,5€|8€|
+|Brasserie Thiriez   |   |
 |Session IPA (4,2°)|3,5€|6€|
 |Brasserie Tours du Malt   |   |
 |New French IPA (6,5°)|4€|7,5€|
@@ -55,8 +55,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie d'Orval||
 |XX Bitter (6°)|4,5€|
 |Brasserie De Ranke||
-|Joe NEIPA (6°)|7€|
-|Brasserie Iron||
 |Gose Cassis Basilic (6°)|7€|
 |Brasserie Iron||
 |Imperial Pastry Gose (10°)|9€|
@@ -90,7 +88,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🧃 Sans alcool|    |
 |---|---|
 |Kombucha|5,5€|
-|Original, Jassberry, Hoppy, Citron Menthe & Fire||
+|Original, Jassberry, Hoppy||
 |Lilmonade|5€|
 |Classic, Citra||
 |Limonade Annexe|5€|
@@ -106,6 +104,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, Comté||
+|Fuet catalan, Comté, Nature||
 |Tartinables|6€|
 |Caviars d’aubergine, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||

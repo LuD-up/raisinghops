@@ -29,8 +29,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Au Baron   |   |
 |Praise the Sun (5°)|4,5€|8€|
 |Brasserie Chromatique   |   |
-|Freestyle #17 (5°)|3,5€|6€|
-|Brasserie du Pays Flamand|   |
+|Framboise Rhubarbe (5°)|4,5€|8€|
+|Brasserie Cambier|   |
 |Horizon (8°)|,5€|8€|
 |Brasserie Chromatique   |   |
 |Supplément Picon|+1€|+2€|

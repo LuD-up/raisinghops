@@ -19,7 +19,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Cambier   |   |
 |Scarlet (8°)|4,5€|8€|
 |Brasserie la Débauche   |   |
-|Larsen (9°)|4,5€|8€|
+|Larsen (9°)|5€|9€|
 |Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7,5€|
 |Brasserie Gobrecht|   |
@@ -31,15 +31,21 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Chromatique   |   |
 |Framboise Rhubarbe (5°)|4,5€|8€|
 |Brasserie Cambier|   |
-|Horizon (8°)|,5€|8€|
+|Horizon (8°)|4€|7,5€|
 |Brasserie Chromatique   |   |
 |Supplément Picon|+1€|+2€|
 
 |🍻 Bières en bouteille||
 |---|---|
-|PVL Printemps 5,5°|7€|
+|In the Steep 6,7° (44cl)|9€|
+|Brasserie Outer Range||
+|Cosmic Sauce 6,4° (44cl)|9€|
+|Brasserie Outer Range||
+|Big Boy 12° (33cl)|7,5€|
+|Brasserie La Débauche||
+|PVL Printemps 5,5° (33cl)|7€|
 |Brasserie du Pavé||
-|PVL Sumbawa en Pévèle - 5,5°|7€|
+|PVL Sumbawa en Pévèle - 5,5° (33cl)|7€|
 |Brasserie du Pavé||
 |NEIPA Citra Elixir 6,5° (44cl)|7€|
 |Brasserie Cambier||
@@ -47,34 +53,36 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Cambier||
 |Pastry Sour 6,1° (44cl)|8€|
 |Brasserie Cambier||
+|Double Citra 8° (44cl)|7€|
+|Brasserie Cambier||
 |Peekaboo 5° (33cl)|7,5€|
 |Brasserie Hoppy Road||
 |Mazout 12° (33cl)|7€|
 |Brasserie Hoppy Road||
-|Orval (6,2°)|6€|
+|Orval 6,2° (33cl)|5€|
 |Brasserie d'Orval||
-|XX Bitter (6°)|4,5€|
+|XX Bitter 6° (33cl)|4,5€|
 |Brasserie De Ranke||
-|Gose Cassis Basilic (6°)|7€|
+|Gose Cassis Basilic 6° (33cl)|7€|
 |Brasserie Iron||
-|Imperial Pastry Gose (10°)|9€|
-|Brasserie Iron||
-|Blanche Brunehaut - Sans gluten (5,5°)|5€|
+|Blanche Brunehaut - Sans gluten 5,5° (33cl)|5€|
 |Brasserie de Brunehaut||
-|Lil - Sans alcool|5€|
+|Lil - Sans alcool (33cl)|5€|
 |Brasserie Gobrecht||
-|Lil Fruits rouges - Sans Alcool|5€|
+|Lil Fruits rouges - Sans Alcool (33cl)|5€|
 |Brasserie Gobrecht||
 |Cute & Sober - Sans Alcool (33cl)|5€|
 |Brasserie la débauche||
 
-|🍷 Vin||
+|🍷 Vin & cidre||
 |---|---|
 |Rosé de Provence|4,5€|
 |||
 |Sauvignon Blanc|5€|
 |||
 |Bourgueil|5€|
+|||
+|Cidre Mauret (33cl)|6€|
 |||
 
 |🍹 Cocktails||
@@ -104,6 +112,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, Comté, Nature||
+|Fuet catalan, Comté||
 |Tartinables|6€|
-|Caviars d’aubergine, Terrines au piment d’espelette, Terrines à la bière jonquilles, Houmous citronné, Tomates séchées||
+|Caviars d’aubergine, Terrine au piment d’espelette, Terrine à la bière jonquilles, Houmous citronné, Tomates séchées||

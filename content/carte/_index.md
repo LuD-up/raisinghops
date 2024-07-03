@@ -9,34 +9,38 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Pils ou face (5°) |3€|5€|
-|Meteor|   |   |
+|Blanche Sureau (4,5°) |3,5€|6,5€|
+|Bière de blé - Brasserie Cambier|   |   |
 |Thelma (7°)|4,5€|8€|
-|Brasserie Thiriez   |   |
-|Session IPA (4,2°)|3,5€|6€|
-|Brasserie Tours du Malt   |   |
+|Saison au poivre sauvage et hibiscus - Brasserie Thiriez   |   |
+|Rincette (4,2°)|3,5€|6,5€|
+|Session IPA - Brasserie Tours du Malt|   |
 |New French IPA (6,5°)|4€|7,5€|
-|Brasserie Cambier   |   |
+|NEIPA - Brasserie Cambier   |   |
 |Scarlet (8°)|4,5€|8€|
-|Brasserie la Débauche   |   |
+|Sour aux fruits rouges - Brasserie la Débauche   |   |
 |Larsen (9°)|5€|9€|
-|Brasserie la Muette|   |
+|Double IPA - Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7,5€|
-|Brasserie Gobrecht|   |
+|Fruitée - Brasserie Gobrecht|   |
 |Black Marble (5,1°)|4€|7,5€|
-|Brasserie Sullivan's   |   |
+|Stout - Brasserie Sullivan's   |   |
 |Cuvée des jonquilles (8°)|4€|7,5€|
-|Brasserie Au Baron   |   |
+|Bière de garde - Brasserie Au Baron   |   |
 |Praise the Sun (5°)|4,5€|8€|
-|Brasserie Chromatique   |   |
+|Gose abricot & romarin - Brasserie Chromatique   |   |
 |Framboise Rhubarbe (5°)|4,5€|8€|
-|Brasserie Cambier|   |
+|Sour - Brasserie Cambier|   |
 |Horizon (8°)|4€|7,5€|
-|Brasserie Chromatique   |   |
+|Triple belge - Brasserie Chromatique|   |
 |Supplément Picon|+1€|+2€|
 
 |🍻 Bières en bouteille||
 |---|---|
+|Pink Devils 4° (44cl)|7€|
+|Brasserie Nautile||
+|Tidal Wave 6° (44cl)|8€|
+|Brasserie Nautile||
 |In the Steep 6,7° (44cl)|9€|
 |Brasserie Outer Range||
 |Cosmic Sauce 6,4° (44cl)|9€|
@@ -47,8 +51,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie du Pavé||
 |PVL Sumbawa en Pévèle - 5,5° (33cl)|7€|
 |Brasserie du Pavé||
-|NEIPA Citra Elixir 6,5° (44cl)|7€|
-|Brasserie Cambier||
 |Double Nectaron 8° (44cl)|7,5€|
 |Brasserie Cambier||
 |Pastry Sour 6,1° (44cl)|8€|

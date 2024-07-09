@@ -51,8 +51,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie du Pavé||
 |PVL Sumbawa en Pévèle - 5,5° (33cl)|7€|
 |Brasserie du Pavé||
-|Double Nectaron 8° (44cl)|7,5€|
-|Brasserie Cambier||
 |Pastry Sour 6,1° (44cl)|8€|
 |Brasserie Cambier||
 |Double Citra 8° (44cl)|7€|

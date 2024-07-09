@@ -13,7 +13,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Bière de blé - Brasserie Cambier|   |   |
 |Thelma (7°)|4,5€|8€|
 |Saison au poivre sauvage et hibiscus - Brasserie Thiriez   |   |
-|Rincette (4,2°)|3,5€|6,5€|
+|Rincette (4,2°)|4€|7,5€|
 |Session IPA - Brasserie Tours du Malt|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |

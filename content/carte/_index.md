@@ -9,16 +9,16 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Blanche Sureau (4,5°) |3,5€|6,5€|
-|Bière de blé - Brasserie Cambier|   |   |
+|Ceci n'est pas une tarte (6,9°) |4,5€|8€|
+|Bière de blé - Brasserie Chromatique|   |   |
 |Thelma (7°)|4,5€|8€|
-|Saison au poivre sauvage et hibiscus - Brasserie Thiriez   |   |
+|Saison au poivre sauvage et hibiscus - Brasserie Thiriez|   |
 |Rincette (4,2°)|4€|7,5€|
 |Session IPA - Brasserie Tours du Malt|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
-|Scarlet (8°)|4,5€|8€|
-|Sour aux fruits rouges - Brasserie la Débauche   |   |
+|Escapade|4,5€|8€|
+|Sour framboise, groseille, citron - Brasserie Chromatique   |   |
 |Larsen (9°)|5€|9€|
 |Double IPA - Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7,5€|
@@ -31,8 +31,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Gose abricot & romarin - Brasserie Chromatique   |   |
 |Framboise Rhubarbe (5°)|4,5€|8€|
 |Sour - Brasserie Cambier|   |
-|Horizon (8°)|4€|7,5€|
-|Triple belge - Brasserie Chromatique|   |
+|Guldenberg (8°)|4,5€|8€|
+|Triple belge - Brasserie De Ranke|   |
 |Supplément Picon|+1€|+2€|
 
 |🍻 Bières en bouteille||
@@ -80,8 +80,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |||
 |Sauvignon Blanc|5€|
 |||
-|Bourgueil|5€|
-|||
 |Cidre Mauret (33cl)|6€|
 |||
 
@@ -95,8 +93,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🧃 Sans alcool|    |
 |---|---|
-|Kombucha|5,5€|
-|Original, Jassberry, Hoppy||
+|Kombucha (Loven)|5,5€|
+|Gingembre, Jassberry, Hoppy||
 |Lilmonade|5€|
 |Classic, Citra||
 |Limonade Annexe|5€|
@@ -112,6 +110,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, Comté||
+|Fuet catalan, Comté ou piment d'Espelette||
 |Tartinables|6€|
 |Caviars d’aubergine, Terrine au piment d’espelette, Terrine à la bière jonquilles, Houmous citronné, Tomates séchées||

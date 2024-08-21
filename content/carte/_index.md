@@ -17,8 +17,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Session IPA - Brasserie Tours du Malt|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
-|Escapade|4,5€|8€|
-|Sour framboise, groseille, citron - Brasserie Chromatique   |   |
+|Escapade (4°)|4,5€|8€|
+|Sour framboise, groseille, citron - Brasserie Chromatique|   |
 |Larsen (9°)|5€|9€|
 |Double IPA - Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7,5€|
@@ -37,6 +37,18 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍻 Bières en bouteille||
 |---|---|
+|Praise the Sun 5° (44cl)|8€|
+|Brasserie Chromatique||
+|Attention Chien Méchant 7,9° (44cl)|8€|
+|Brasserie Chromatique||
+|Gros Ficus 6,1° (44cl)|8€|
+|Brasserie Chromatique||
+|Bollywood Pepper 4,2° (44cl)|5€|
+|Brasserie Chromatique||
+|Banquise Attack 7,7° (44cl)|6,5€|
+|Brasserie Chromatique||
+|Juicy Table Beer 3° (44cl)|7€|
+|Brasserie Cambier X Brasserie Thiriez||
 |Pink Devils 4° (44cl)|7€|
 |Brasserie Nautile||
 |Tidal Wave 6° (44cl)|8€|

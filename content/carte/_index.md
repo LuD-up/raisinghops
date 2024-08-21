@@ -101,6 +101,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Vodka, Ginger Beer, Citron vert||
 |Gin Tonic|8€|
 |Gin, Tonic, Citron vert||
+|Caïpirinha|8€|
+|Cachaça, sucre de canne, Citron vert||
 
 
 |🧃 Sans alcool|    |
@@ -110,12 +112,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Lilmonade|5€|
 |Classic, Citra||
 |Limonade Annexe|5€|
-|Coing, Ginger Beer, Myrtille, Framboise||
+|Ginger Beer, Myrtille, Framboise||
 |Spunky|4,5€|
-|Framboise & pêche de vigne, Citron vert & Gingembre||
+|Fruit de la passion & Bergamote ou Citron vert & Gingembre||
 |Lil Cola (avec ou sans sucre)|4,5€|
 |||
-|Jus de pomme ou pomme/poire|4,5€|
+|Jus de pomme ou Pomme/poire|4,5€|
 |||
 
 

@@ -69,7 +69,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Cambier||
 |Peekaboo 5° (33cl)|7,5€|
 |Brasserie Hoppy Road||
-|Mazout 12° (33cl)|7€|
+|Mazout 12° (33cl)|7,5€|
 |Brasserie Hoppy Road||
 |Orval 6,2° (33cl)|5€|
 |Brasserie d'Orval||
@@ -79,7 +79,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Brasserie Iron||
 |Blanche Brunehaut - Sans gluten 5,5° (33cl)|5€|
 |Brasserie de Brunehaut||
-|Lil - Sans alcool (33cl)|5€|
+|Lil Blonde - Sans alcool (33cl)|5€|
 |Brasserie Gobrecht||
 |Lil Fruits rouges - Sans Alcool (33cl)|5€|
 |Brasserie Gobrecht||

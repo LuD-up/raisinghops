@@ -9,12 +9,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Ceci n'est pas une tarte (6,9°) |4,5€|8€|
-|Bière de blé - Brasserie Chromatique|   |   |
+|Blanche Sureau (4,5°) |4€|7,5€|
+|Bière de blé - Brasserie Cambier|   |   |
 |Thelma (7°)|4,5€|8€|
 |Saison au poivre sauvage et hibiscus - Brasserie Thiriez|   |
-|Rincette (4,2°)|4€|7,5€|
-|Session IPA - Brasserie Tours du Malt|   |
+|Cail Lager (5,2°)|3€|5€|
+|Lager - Brasserie Fives Cail|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
 |Escapade (4°)|4,5€|8€|
@@ -23,17 +23,16 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Double IPA - Brasserie la Muette|   |
 |Lil Cerise (8°)|4€|7,5€|
 |Fruitée - Brasserie Gobrecht|   |
-|Black Marble (5,1°)|4€|7,5€|
-|Stout - Brasserie Sullivan's   |   |
+|Pont Levant (6,5°)|4€|7,5€|
+|IPA - Brasserie Fives Cail|   |
 |Cuvée des jonquilles (8°)|4€|7,5€|
 |Bière de garde - Brasserie Au Baron   |   |
 |Praise the Sun (5°)|4,5€|8€|
 |Gose abricot & romarin - Brasserie Chromatique   |   |
-|Framboise Rhubarbe (5°)|4,5€|8€|
-|Sour - Brasserie Cambier|   |
-|Guldenberg (8°)|4,5€|8€|
-|Triple belge - Brasserie De Ranke|   |
-|Supplément Picon|+1€|+2€|
+|Locomotive (6,2°)|4€|7,5€|
+|Triple Belge - Brasserie Fives Cail|   |
+|Opéra (6°)|4,5€|8€|
+|Stout - Brasserie Belleneart|   |
 
 |🍻 Bières en bouteille||
 |---|---|
@@ -104,13 +103,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Caïpirinha|8€|
 |Cachaça, sucre de canne, Citron vert||
 
-
 |🧃 Sans alcool|    |
 |---|---|
 |Kombucha (Loven)|5,5€|
 |Gingembre, Jassberry, Hoppy||
-|Lilmonade|5€|
-|Classic, Citra||
+|Lilonade Citra|5€|
+|.||
 |Limonade Annexe|5€|
 |Ginger Beer, Myrtille, Framboise||
 |Spunky|4,5€|

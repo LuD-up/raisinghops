@@ -21,7 +21,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Sour framboise, groseille, citron - Brasserie Chromatique|   |
 |Larsen (9°)|5€|9€|
 |Double IPA - Brasserie la Muette|   |
-|Lil Cerise (8°)|4€|7,5€|
+|Choulette Cerise (5°)|4€|7,5€|
 |Fruitée - Brasserie Gobrecht|   |
 |Pont Levant (6,5°)|4€|7,5€|
 |IPA - Brasserie Fives Cail|   |
@@ -31,8 +31,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Gose abricot & romarin - Brasserie Chromatique   |   |
 |Locomotive (6,2°)|4€|7,5€|
 |Triple Belge - Brasserie Fives Cail|   |
-|Opéra (6°)|4,5€|8€|
-|Stout - Brasserie Belleneart|   |
+|Black Marble (5,1°)|4€|7,5€|
+|Stout - Brasserie Sullivan's|   |
 
 |🍻 Bières en bouteille||
 |---|---|
@@ -105,7 +105,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🧃 Sans alcool|    |
 |---|---|
-|Kombucha (Loven)|5,5€|
+|Kombucha (Loven)|5€|
 |Gingembre, Jassberry, Hoppy||
 |Lilonade Citra|5€|
 |.||
@@ -113,9 +113,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Ginger Beer, Myrtille, Framboise||
 |Spunky|4,5€|
 |Fruit de la passion & Bergamote ou Citron vert & Gingembre||
-|Lil Cola (avec ou sans sucre)|4,5€|
+|Lil Cola|4,5€|
 |||
-|Jus de pomme ou Pomme/poire|4,5€|
+|Jus de pomme|4€|
 |||
 
 

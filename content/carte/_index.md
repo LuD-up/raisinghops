@@ -25,8 +25,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Fruitée - Brasserie Gobrecht|   |
 |Pont Levant (6,5°)|4€|7,5€|
 |IPA - Brasserie Fives Cail|   |
-|Cuvée des jonquilles (8°)|4€|7,5€|
-|Bière de garde - Brasserie Au Baron|   |
+|Saison Vagabonda (5,5°)|4€|7,5€|
+|Saison - Brasserie Au Baron & Cantina Errante|   |
 |Accalmie (4,5°)|4,5€|8€|
 |Gose - Brasserie Chromatique   |   |
 |Locomotive (6,2°)|4€|7,5€|
@@ -107,7 +107,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|
 |Jus de fruit (25cl)|4€|
 |Pomme ou Abricot ou Pomme Fraise||
-|JThé glacé bio (33cl)|4€|
+|Thé glacé bio (33cl)|4€|
 |Thé noir & citron ou Rooibos & fruit de la passion||
 |Maté bio (33cl)|4€|
 |||

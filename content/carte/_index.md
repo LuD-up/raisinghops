@@ -9,12 +9,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Freestyle #17 (5°) |3,5€|6€|
-|Bière de blé - Brasserie Pays flamand|   |   |
-|Saison piment (6°)|4€|7,5€|
-|Saison - Brasserie Tours du malt|   |
-|Cail Lager (5,2°)|3€|5€|
-|Lager - Brasserie Fives Cail|   |
+|2 be fruit (5,5°) |4,5€|8€|
+|Sour abricot & rhubarbe - Brasserie La Muette|   |   |
+|Doom Muettal (6°)|4,5€|8€|
+|Gose myrtille, cassis, mûre & basilic- Brasserie La Muette|   |
+|Sois muette et tais toi (6°)|4,5€|8€|
+|NEIPA - Brasserie La Muette|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
 |Escapade (4°)|4,5€|8€|
@@ -22,9 +22,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Larsen (9°)|5€|9€|
 |Double IPA - Brasserie la Muette|   |
 |Choulette Cerise (5°)|4€|7,5€|
-|Fruitée - Brasserie Gobrecht|   |
-|Pont Levant (6,5°)|4€|7,5€|
-|IPA - Brasserie Fives Cail|   |
+|Fruitée - Brasserie la Choulette|   |
+|Va te faire muette (6,8°)|4,5€|8€|
+|IPA kveik - Brasserie La Muette|   |
 |Saison Vagabonda (5,5°)|4€|7,5€|
 |Saison - Brasserie Au Baron & Cantina Errante|   |
 |Accalmie (4,5°)|4,5€|8€|
@@ -36,54 +36,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍻 Bières en bouteille||
 |---|---|
-|Praise the Sun 5° (44cl)|8€|
-|Brasserie Chromatique||
-|Attention Chien Méchant 7,9° (44cl)|8€|
-|Brasserie Chromatique||
-|Gros Ficus 6,1° (44cl)|8€|
-|Brasserie Chromatique||
-|Bollywood Pepper 4,2° (44cl)|5€|
-|Brasserie Chromatique||
-|Banquise Attack 7,7° (44cl)|6,5€|
-|Brasserie Chromatique||
-|Juicy Table Beer 3° (44cl)|7€|
-|Brasserie Cambier X Brasserie Thiriez||
-|Pink Devils 4° (44cl)|7€|
-|Brasserie Nautile||
-|Tidal Wave 6° (44cl)|8€|
-|Brasserie Nautile||
-|In the Steep 6,7° (44cl)|9€|
-|Brasserie Outer Range||
-|Cosmic Sauce 6,4° (44cl)|9€|
-|Brasserie Outer Range||
-|Big Boy 12° (33cl)|7,5€|
-|Brasserie La Débauche||
-|PVL Printemps 5,5° (33cl)|7€|
-|Brasserie du Pavé||
-|PVL Sumbawa en Pévèle - 5,5° (33cl)|7€|
-|Brasserie du Pavé||
-|Pastry Sour 6,1° (44cl)|8€|
-|Brasserie Cambier||
-|Double Citra 8° (44cl)|7€|
-|Brasserie Cambier||
-|Peekaboo 5° (33cl)|7,5€|
-|Brasserie Hoppy Road||
-|Mazout 12° (33cl)|7,5€|
-|Brasserie Hoppy Road||
-|Orval 6,2° (33cl)|5€|
-|Brasserie d'Orval||
-|XX Bitter 6° (33cl)|4,5€|
-|Brasserie De Ranke||
-|Gose Cassis Basilic 6° (33cl)|7€|
-|Brasserie Iron||
-|Blanche Brunehaut - Sans gluten 5,5° (33cl)|5€|
-|Brasserie de Brunehaut||
-|Lil Blonde - Sans alcool (33cl)|5€|
-|Brasserie Gobrecht||
-|Lil Fruits rouges - Sans Alcool (33cl)|5€|
-|Brasserie Gobrecht||
-|Cute & Sober - Sans Alcool (33cl)|5€|
-|Brasserie la débauche||
+Voir frigo directement !
 
 |🍷 Vin & cidre||
 |---|---|

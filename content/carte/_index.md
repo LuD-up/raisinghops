@@ -17,22 +17,22 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |NEIPA - Brasserie La Muette|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
-|Escapade (4°)|4,5€|8€|
-|Sour framboise, groseille, citron - Brasserie Chromatique|   |
+|Mongy de noël (8°)|4€|7,5€|
+|Ambrée - Brasserie Cambier|   |
 |Larsen (9°)|5€|9€|
 |Double IPA - Brasserie la Muette|   |
-|Choulette Cerise (5°)|4€|7,5€|
-|Fruitée - Brasserie la Choulette|   |
+|Cail lager (5,2°)|3,5€|5€|
+|Lager - Brasserie Fives Cail|   |
 |Va te faire muette (6,8°)|4,5€|8€|
 |IPA kveik - Brasserie La Muette|   |
 |Saison Vagabonda (5,5°)|4€|7,5€|
 |Saison - Brasserie Au Baron & Cantina Errante|   |
 |Accalmie (4,5°)|4,5€|8€|
-|Gose - Brasserie Chromatique   |   |
+|Gose - Brasserie Sacrilège   |   |
 |Locomotive (6,2°)|4€|7,5€|
 |Blonde - Brasserie Fives Cail|   |
-|Black Marble (5,1°)|4€|7,5€|
-|Stout - Brasserie Sullivan's|   |
+|Imperial Russian Stout (10°)|5€|9€|
+|IRS chicorée - Brasserie Fives Cail|   |
 
 |🍻 Bières en bouteille||
 |---|---|

@@ -11,22 +11,22 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|---|
 |2 be fruit (5,5°) |4,5€|8€|
 |Sour abricot & rhubarbe - Brasserie La Muette|   |   |
-|Doom Muettal (6°)|4,5€|8€|
-|Gose myrtille, cassis, mûre & basilic- Brasserie La Muette|   |
+|Double Citra (8°)|4,5€|8€|
+|Double IPA - Brasserie Cambier|   |
 |Sois muette et tais toi (6°)|4,5€|8€|
 |NEIPA - Brasserie La Muette|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
 |Mongy de noël (8°)|4€|7,5€|
 |Ambrée - Brasserie Cambier|   |
-|Larsen (9°)|5€|9€|
-|Double IPA - Brasserie la Muette|   |
+|Horizon (8°)|5€|9€|
+|Triple belge - Brasserie Chromatique|   |
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail|   |
 |Va te faire muette (6,8°)|4,5€|8€|
 |IPA kveik - Brasserie La Muette|   |
-|Saison Vagabonda (5,5°)|4€|7,5€|
-|Saison - Brasserie Au Baron & Cantina Errante|   |
+|Freestyle  (5°)|4€|7,5€|
+|Bière de blé - Brasserie Pays Flamand|   |
 |Accalmie (4,5°)|4,5€|8€|
 |Gose - Brasserie Sacrilège   |   |
 |Locomotive (6,2°)|4€|7,5€|
@@ -44,7 +44,7 @@ Voir frigo directement !
 |||
 |Sauvignon Blanc|5€|
 |||
-|Cidre Mauret (33cl)|6€|
+|Cidre brut bio (33cl)|6€|
 |||
 
 |🍹 Cocktails||
@@ -76,7 +76,7 @@ Voir frigo directement !
 |🥑 Encas|    |
 |---|---|
 |Saucisson|6€|
-|Fuet catalan, Comté ou piment d'Espelette||
+|Fuet catalan, aux herbes ou piment d'Espelette||
 |Tartinables|6€|
 |Caviars d’aubergine, Terrine au piment d’espelette, Terrine à la bière jonquilles, Houmous citronné, Tomates séchées||
 |Planche|16€|

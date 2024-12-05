@@ -25,7 +25,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Lager - Brasserie Fives Cail|   |
 |Va te faire muette (6,8°)|4,5€|8€|
 |IPA kveik - Brasserie La Muette|   |
-|Freestyle  (5°)|4€|7,5€|
+|Freestyle (5°)|3,5€|7€|
 |Bière de blé - Brasserie Pays Flamand|   |
 |Accalmie (4,5°)|4,5€|8€|
 |Gose - Brasserie Sacrilège   |   |
@@ -56,7 +56,7 @@ Voir frigo directement !
 |Caïpirinha|8€|
 |Cachaça, sucre de canne, Citron vert||
 
-|🧃 Sans alcool|    |
+|🧃 Sans alcool||
 |---|---|
 |Jus de fruit (25cl)|4€|
 |Pomme ou Abricot ou Pomme Fraise||
@@ -70,14 +70,14 @@ Voir frigo directement !
 |||
 |Limonade Annexe (33cl)|5€|
 |Ginger Beer, Myrtille, Framboise||
-|Loven Kombucha (33cl)|5€|
-|Gingembre, Flamingo, Jassberry, Hoppy||
+|Goodsy Kombucha (33cl)|5,5€|
+|Framboise menthe & astragale||
 
-|🥑 Encas|    |
+|🥑 Encas||
 |---|---|
 |Saucisson|6€|
 |Fuet catalan, aux herbes ou piment d'Espelette||
 |Tartinables|6€|
-|Caviars d’aubergine, Terrine au piment d’espelette, Terrine à la bière jonquilles, Houmous citronné, Tomates séchées||
+|Caviars d’aubergine, Terrine au piment d’espelette, Terrine à la bière jonquilles, Houmous citronné, Tomates séchées, thon à la bretone||
 |Planche|16€|
-|Saucisson au choix + Tartible au choix + 1 demi cheddar (100gr)||
+|Saucisson au choix + Tartinable au choix + 1 demi cheddar (100gr)||

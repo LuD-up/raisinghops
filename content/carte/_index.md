@@ -9,12 +9,12 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|2 be fruit (5,5°) |4,5€|8€|
-|Sour abricot & rhubarbe - Brasserie La Muette|   |   |
+|Scarlet (8°) |4,5€|8,5€|
+|Sour fruits rouges - Brasserie La Débauche|||
 |Double Citra (8°)|4,5€|8€|
-|Double IPA - Brasserie Cambier|   |
-|Sois muette et tais toi (6°)|4,5€|8€|
-|NEIPA - Brasserie La Muette|   |
+|Double IPA - Brasserie Cambier||
+|Sunset (6,5°)|4€|7,5€|
+|IPA - Brasserie Elemets Brewing|   |
 |New French IPA (6,5°)|4€|7,5€|
 |NEIPA - Brasserie Cambier   |   |
 |Mongy de noël (8°)|4€|7,5€|
@@ -23,8 +23,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Triple belge - Brasserie Chromatique|   |
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail|   |
-|Va te faire muette (6,8°)|4,5€|8€|
-|IPA kveik - Brasserie La Muette|   |
+|Winter Pepper (7,5°)|4,5€|8€|
+|Winter Ale - Brasserie Thiriez|   |
 |Freestyle (5°)|3,5€|7€|
 |Bière de blé - Brasserie Pays Flamand|   |
 |Accalmie (4,5°)|4,5€|8€|

@@ -15,7 +15,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Double IPA - Brasserie Cambier||
 |Sunset (6,5°)|4€|7,5€|
 |IPA - Brasserie Elemets Brewing|   |
-|New French IPA (6,5°)|4€|7,5€|
+|New French IPA (6,5°)|4,5€|8,5€|
 |NEIPA - Brasserie Cambier   |   |
 |Mongy de noël (8°)|4€|7,5€|
 |Ambrée - Brasserie Cambier|   |
@@ -23,7 +23,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Triple belge - Brasserie Chromatique|   |
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail|   |
-|Winter Pepper (7,5°)|4,5€|8€|
+|Winter Pepper (7,5°)|4,5€|8,5€|
 |Winter Ale - Brasserie Thiriez|   |
 |Freestyle (5°)|3,5€|7€|
 |Bière de blé - Brasserie Pays Flamand|   |

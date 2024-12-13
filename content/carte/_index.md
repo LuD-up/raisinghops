@@ -25,7 +25,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Lager - Brasserie Fives Cail|   |
 |Winter Pepper (7,5°)|4,5€|8,5€|
 |Winter Ale - Brasserie Thiriez|   |
-|Freestyle (5°)|3,5€|7€|
+|Freestyle (5°)|4€|7€|
 |Bière de blé - Brasserie Pays Flamand|   |
 |Accalmie (4,5°)|4,5€|8€|
 |Gose - Brasserie Sacrilège   |   |

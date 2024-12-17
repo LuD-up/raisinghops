@@ -11,9 +11,9 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|---|
 |Scarlet (8°) |4,5€|8,5€|
 |Sour fruits rouges - Brasserie La Débauche|||
-|Double Citra (8°)|4,5€|8€|
+|Double Citra (8°)|5€|9€|
 |Double IPA - Brasserie Cambier||
-|Sunset (6,5°)|4€|7,5€|
+|Sunset (6,5°)|4€|8,5€|
 |IPA - Brasserie Elemets Brewing|   |
 |New French IPA (6,5°)|4,5€|8,5€|
 |NEIPA - Brasserie Cambier   |   |
@@ -71,7 +71,7 @@ Voir frigo directement !
 |Limonade Annexe (33cl)|5€|
 |Ginger Beer, Myrtille, Framboise||
 |Goodsy Kombucha (33cl)|5,5€|
-|Framboise menthe & astragale||
+|Framboise menthe||
 
 |🥑 Encas||
 |---|---|

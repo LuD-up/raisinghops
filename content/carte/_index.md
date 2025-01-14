@@ -11,28 +11,28 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|---|
 |Scarlet (8°) |4,5€|8,5€|
 |Sour fruits rouges - Brasserie La Débauche|||
+|Winter Pepper (7,5°)|4,5€|8,5€|
+|Winter Ale - Brasserie Thiriez||
+|Mongy de noël (8°)|4€|7,5€|
+|Ambrée - Brasserie Cambier||
+|West Coast Killer (6,8°)|4,5€|8,5€|
+|IPA - Brasserie Cambier||
+|New French IPA (6,5°)|4,5€|8,5€|
+|NEIPA - Brasserie Cambier||
 |Double Citra (8°)|5€|9€|
 |Double IPA - Brasserie Cambier||
-|Sunset (6,5°)|4€|8,5€|
-|IPA - Brasserie Elemets Brewing|   |
-|New French IPA (6,5°)|4,5€|8,5€|
-|NEIPA - Brasserie Cambier   |   |
-|Mongy de noël (8°)|4€|7,5€|
-|Ambrée - Brasserie Cambier|   |
-|Horizon (8°)|5€|9€|
-|Triple belge - Brasserie Chromatique|   |
 |Cail lager (5,2°)|3,5€|5€|
-|Lager - Brasserie Fives Cail|   |
-|Winter Pepper (7,5°)|4,5€|8,5€|
-|Winter Ale - Brasserie Thiriez|   |
-|Freestyle (5°)|4€|7€|
-|Bière de blé - Brasserie Pays Flamand|   |
-|Accalmie (4,5°)|4,5€|8€|
-|Gose - Brasserie Sacrilège   |   |
+|Lager - Brasserie Fives Cail||
 |Locomotive (6,2°)|4€|7,5€|
-|Blonde - Brasserie Fives Cail|   |
+|Blonde - Brasserie Fives Cail||
+|Horizon (8°)|4,5€|8,5€|
+|Triple belge - Brasserie Chromatique||
+|Blueberry Muffins (5,7°)|4€|7,5€|
+|Pale Ale - Brasserie La débauche||
+|Accalmie (4,5°)|4,5€|8,5€|
+|Gose - Brasserie Sacrilège||
 |Imperial Russian Stout (10°)|5€|9€|
-|IRS chicorée - Brasserie Fives Cail|   |
+|IRS chicorée - Brasserie Fives Cail||
 
 |🍻 Bières en bouteille||
 |---|---|

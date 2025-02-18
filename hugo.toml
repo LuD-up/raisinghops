@@ -5,4 +5,3 @@ defaultContentLanguage = 'fr'
 canonifyURLs = true
 enableRobotsTXT = true
 disablekinds = [ "taxonomy", "term"]
-paginate = 8

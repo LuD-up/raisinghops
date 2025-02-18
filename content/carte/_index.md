@@ -19,8 +19,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |IPA - Brasserie Cambier||
 |New French IPA (6,5°)|4,5€|8,5€|
 |NEIPA - Brasserie Cambier||
-|Double Citra (8°)|5€|9€|
-|Double IPA - Brasserie Cambier||
+|Cat Soup (8°)|4€|7,5€|
+|Double IPA - Brasserie la Débauche||
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail||
 |Locomotive (6,2°)|4€|7,5€|
@@ -31,8 +31,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Pale Ale - Brasserie La débauche||
 |Accalmie (4,5°)|4,5€|8,5€|
 |Gose - Brasserie Sacrilège||
-|Imperial Russian Stout (10°)|5€|9€|
-|IRS chicorée - Brasserie Fives Cail||
+|Noir de Dottignies (8,5°)|4€|7,5€|
+|Dark Ale belge - Brasserie De Ranke||
 
 |🍻 Bières en bouteille||
 |---|---|

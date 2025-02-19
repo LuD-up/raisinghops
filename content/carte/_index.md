@@ -23,10 +23,10 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Double IPA - Brasserie la Débauche||
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail||
-|Locomotive (6,2°)|4€|7,5€|
-|Blonde - Brasserie Fives Cail||
-|Horizon (8°)|4,5€|8,5€|
-|Triple belge - Brasserie Chromatique||
+|KM200 (5,2°)|4€|7,5€|
+|Blonde - Brasserie Tours du Malt||
+|L'internationale (8°)|4,5€|8,5€|
+|Triple belge - Brasserie Fives Cail||
 |Blueberry Muffins (5,7°)|4€|7,5€|
 |Pale Ale - Brasserie La débauche||
 |Accalmie (4,5°)|4,5€|8,5€|

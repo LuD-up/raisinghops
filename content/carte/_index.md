@@ -13,8 +13,6 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Pastry Sour Mangue Coco - Brasserie Chromatique|||
 |Winter Pepper (7,5°)|4,5€|8,5€|
 |Winter Ale - Brasserie Thiriez||
-<!-- |Mongy de noël (8°)|4€|7,5€|
-|Ambrée - Brasserie Cambier|| -->
 |West Coast Killer (6,8°)|4,5€|8,5€|
 |IPA - Brasserie Cambier||
 |New French IPA (6,5°)|4,5€|8,5€|

@@ -9,8 +9,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 
 |🍺 Bières pression|25cl|50cl|
 |---|---|---|
-|Scarlet (8°) |4,5€|8,5€|
-|Sour fruits rouges - Brasserie La Débauche|||
+|Ohana (6,1°) |4,5€|8,5€|
+|Pastry Sour Mangue Coco - Brasserie Chromatique|||
 |Winter Pepper (7,5°)|4,5€|8,5€|
 |Winter Ale - Brasserie Thiriez||
 |Mongy de noël (8°)|4€|7,5€|
@@ -24,7 +24,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail||
 |KM200 (5,2°)|4€|7,5€|
-|Blonde - Brasserie Tours du Malt||
+|Pale Ale - Brasserie Tours du Malt||
 |L'internationale (8°)|4,5€|8,5€|
 |Triple belge - Brasserie Fives Cail||
 |Blueberry Muffins (5,7°)|4€|7,5€|

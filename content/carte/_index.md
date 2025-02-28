@@ -17,7 +17,7 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |IPA - Brasserie Cambier||
 |New French IPA (6,5°)|4,5€|8,5€|
 |NEIPA - Brasserie Cambier||
-|Cat Soup (8°)|4€|7,5€|
+|Cat Soup (8°)|4,5€|8,5€|
 |Double IPA - Brasserie la Débauche||
 |Cail lager (5,2°)|3,5€|5€|
 |Lager - Brasserie Fives Cail||

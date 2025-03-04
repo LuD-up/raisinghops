@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notre carte : Bières, cocktails, spiritueux, softs &amp;amp; en-cas on Raising Hops</title>
-    <link>http://localhost:61892/carte/</link>
+    <link>http://localhost:1313/carte/</link>
     <description>Recent content in Notre carte : Bières, cocktails, spiritueux, softs &amp;amp; en-cas on Raising Hops</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:61892/carte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/carte/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

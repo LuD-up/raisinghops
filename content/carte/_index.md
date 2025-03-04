@@ -11,8 +11,8 @@ Dégustation de bières artisanales, brasseries indépendantes, lieu de découve
 |---|---|---|
 |Ohana (6,1°) |4,5€|8,5€|
 |Pastry Sour Mangue Coco - Brasserie Chromatique|||
-|Winter Pepper (7,5°)|4,5€|8,5€|
-|Winter Ale - Brasserie Thiriez||
+|Sakaï Amor (7,5°)|4,5€|8,5€|
+|Beigian Dubbel - Brasserie Fives Cail||
 |West Coast Killer (6,8°)|4,5€|8,5€|
 |IPA - Brasserie Cambier||
 |New French IPA (6,5°)|4,5€|8,5€|
